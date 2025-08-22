@@ -16,7 +16,6 @@
 - 🌐 **Multi-API Integration** – Support for 10+ APIs with graceful degradation if keys are missing  
 - 🕵️ **Stealth Operations** – Tor integration, proxy rotation, user-agent randomization  
 - 📊 **Interactive Reporting** – Export results in HTML, PDF, Markdown, JSON with graphs/timelines  
-- 🔄 **Self-Healing** – Retry mechanisms with exponential backoff and error handling  
 - 🧩 **Modular Architecture** – Simple plugin system for adding new modules and APIs  
 - 📡 **Pivoting Workflows** – Automatically connect domains → emails → IPs → leaks → social profiles  
 - 🧠 **Entity Extraction** – Detects IPs, emails, domains, and links in raw data  
